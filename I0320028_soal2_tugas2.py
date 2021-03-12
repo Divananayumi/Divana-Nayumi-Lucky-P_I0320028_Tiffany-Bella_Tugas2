@@ -8,7 +8,7 @@ tanggal_lahir = int(20/2+3)
 bulan_lahir = "Agustus"
 tahun_lahir = int(40*50+2)
 umur = int(3*6)
-berat_badan = int(100/2-3)
+berat_badan = float(95/2)
 tinggi_badan = int(3*50+6)
 jenis_kelamin = "perempuan"
 agama = "Islam"
@@ -35,7 +35,7 @@ print("Alamat rumah saya di", kelurahan, "RT", R_T, "RW", R_W, str(kecamatan)+",
 
 #masukkan data tambahan
 hobi = "berenang dan membaca novel"
-ukuran_sepatu = int(5*7+5)
+ukuran_sepatu = int((5*7)+5)
 ukuran_baju = "S atau M"
 print("Saya memiliki hobi", str(hobi)+".")
 print("Saya lebih nyaman menggunakan sepatu model sneakers berukuran", str(ukuran_sepatu)+".")
